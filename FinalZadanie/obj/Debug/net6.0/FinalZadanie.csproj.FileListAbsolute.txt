@@ -1,0 +1,15 @@
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\FinalZadanie.csproj.AssemblyReference.cache
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\FinalZadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\FinalZadanie.AssemblyInfoInputs.cache
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\FinalZadanie.AssemblyInfo.cs
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\FinalZadanie.csproj.CoreCompileInputs.cache
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\bin\Debug\net6.0\FinalZadanie.exe
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\bin\Debug\net6.0\FinalZadanie.deps.json
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\bin\Debug\net6.0\FinalZadanie.runtimeconfig.json
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\bin\Debug\net6.0\FinalZadanie.dll
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\bin\Debug\net6.0\FinalZadanie.pdb
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\FinalZadanie.dll
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\refint\FinalZadanie.dll
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\FinalZadanie.pdb
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\FinalZadanie.genruntimeconfig.cache
+C:\Users\hilar\OneDrive\Рабочий стол\FinalWork\FinalZadanie\obj\Debug\net6.0\ref\FinalZadanie.dll
